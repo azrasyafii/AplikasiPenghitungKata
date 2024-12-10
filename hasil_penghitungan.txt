@@ -1,0 +1,16 @@
+Teks Input:
+Di sebuah desa kecil yang dikelilingi oleh pegunungan, terdapat sebuah hutan tua yang selalu diselimuti kabut tebal. Penduduk desa menyebutnya Hutan Arwah, karena konon katanya hutan itu dihuni oleh makhluk-makhluk tak kasat mata. Anak-anak desa sering diperingatkan untuk tidak mendekati hutan itu, tetapi rasa penasaran sering kali lebih kuat daripada rasa takut.
+
+Suatu hari, seorang gadis bernama Lila memberanikan diri masuk ke dalam hutan. Lila bukanlah gadis biasa; ia cerdas, penuh rasa ingin tahu, dan memiliki keberanian yang jarang dimiliki oleh teman-temannya. Dengan membawa lentera kecil, ia melangkah masuk ke dalam kegelapan hutan. Suara dedaunan yang bergesekan dan kicauan burung malam membuat bulu kuduknya meremang, tetapi ia tetap melangkah maju.
+
+Di tengah perjalanan, Lila menemukan sebuah pohon besar dengan akar yang mencuat ke permukaan seperti tangan raksasa. Di bawah pohon itu, ia melihat kilauan aneh. Ketika ia mendekat, ternyata itu adalah sebuah kotak kecil yang tertanam di antara akar-akar tersebut. Dengan hati-hati, ia membukanya dan menemukan secarik kertas tua yang bertuliskan: "Rahasia terbesar adalah keberanian memahami yang tak terlihat."
+
+Tiba-tiba, angin berhembus kencang, dan kabut di sekitar Lila mulai berputar. Di hadapannya muncul sosok bayangan yang perlahan menjadi jelas—seorang wanita tua dengan mata lembut. Wanita itu tersenyum dan berkata, "Kamu adalah orang pertama yang menemukan pesan ini dalam seratus tahun terakhir. Keberanianmu akan mengubah takdir desa ini."
+
+Sebelum Lila sempat bertanya, wanita itu menghilang, meninggalkan jejak cahaya keemasan yang memandu Lila keluar dari hutan. Ketika ia kembali ke desa dan menceritakan pengalamannya, para penduduk awalnya tidak percaya. Namun, dalam beberapa hari, hujan deras turun setelah bertahun-tahun kekeringan, dan panen desa menjadi melimpah. Penduduk mulai memahami bahwa hutan tua itu bukan tempat kutukan, melainkan penjaga rahasia alam yang meminta keberanian untuk ditemukan.
+
+Sejak hari itu, Lila dikenal sebagai pahlawan desa, dan hutan tua itu tak lagi dianggap sebagai tempat yang menakutkan.
+Jumlah Kata: 300
+Jumlah Karakter: 2119
+Jumlah Kalimat: 20
+Jumlah Paragraf: 11
